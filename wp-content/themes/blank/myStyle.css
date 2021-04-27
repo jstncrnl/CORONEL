@@ -1,0 +1,129 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+.header{
+	padding:10px;
+}
+
+h1{
+	padding-left:10px;
+}
+
+.menu{
+	background-color: gray;
+	margin-bottom: 10px;
+}
+
+.active{
+	background-color:black;
+	color:gray;
+}
+
+a{
+	display:inline-block;
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+}
+
+a:last-child{
+	float:right;
+}
+
+.image1{
+	display:inline-block;
+	float:left;
+	width:33%;
+	text-align: center;
+}
+
+.image2{
+	display:inline-block;
+	float:left;
+	width:33%;
+	text-align: center;
+}
+
+.image3{
+	display:inline-block;
+	float:left;
+	width:33%;
+	text-align: center;
+}
+
+img{
+	width:70%;
+}
+
+table{
+	background-color: #a6a6a6;
+	width:600px;
+	border-collapse: collapse;
+	margin:auto;
+}
+
+tr{
+	padding:5px;
+}
+
+td{
+	width: 20%;
+	padding: 10px;
+}
+
+.body{
+	text-align: center;
+}
+
+.mission{
+	width:50%;
+	min-width:250px;
+	border:1px solid black;
+	margin: auto;
+}
+
+.vision{
+	width:50%;
+	min-width:250px;
+	border:1px solid black;
+	margin: auto;
+}
+
+.mission h2{
+	margin: 0;
+	padding: 20px;
+}
+
+.vision h2{
+	margin: 0;
+	padding: 20px;
+}
+
+h2{
+	background-color: gray;
+}
+
+.mission p{
+	margin:0;
+	padding:20px;
+	font-size: 20px;
+	background-color:#a6a6a6;
+}
+
+.vision p{
+	margin:0;
+	padding:20px;
+	font-size: 20px;
+	background-color:#a6a6a6;
+}
+
+label{
+	font-size: 30px;
+}
+
+p{
+	font-size:20px;
+}
