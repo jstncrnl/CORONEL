@@ -26,9 +26,8 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h1 class="display-3">Hello, world!</h1>
-          <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more »</a></p>
+          <h1 class="display-3">JGC Printing Services</h1>
+          <p>JGC Printing Services is an Online Shop where you can see our available products.  Our focus in the future is to be recognized globally as one of the best and respected Graphic Design Company who provides quality products and services that goes beyond the customers satisfactory</p>
         </div>
       </div>
 
@@ -36,19 +35,16 @@
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+            <h2>Mugs</h2>
+            <p>A large cup, typically cylindrical with a handle and used without a saucer. </p>
           </div>
           <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+            <h2>Shirt</h2>
+            <p>A garment for the upper body made of cotton or a similar fabric, with a collar, sleeves, and buttons down the front. </p>
           </div>
           <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+            <h2>Tumbler</h2>
+            <p>A drinking glass with straight sides and no handle or stem.</p>
           </div>
         </div>
 
